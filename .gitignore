@@ -1,23 +1,84 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
-.vscode/
-#Cache folder
-.alcache/
-#Symbols folder
-.alpackages/
-#Snapshots folder
-.snapshots/
-#Testing Output folder
-.output/
-#Extension App-file
-*.app
-#Rapid Application Development File
-rad.json
-#Translation Base-file
-*.g.xlf
-#License-files
-*.bclicense
-*.flf
-#Test results file
-TestResults.xml
+# =========================
+# Xilinx ISE Build Folders
+# =========================
+_ngo/
+_xmsgs/
+xst/
+ipcore_dir/
+iseconfig/
+xlnx_auto_0_xdb/
+
+# =========================
+# Generated Bitstreams & Outputs
+# =========================
+*.bit
+*.bin
+*.bgn
+*.ncd
+*.ngc
+*.ngd
+*.ngr
+*.pad
+*.par
+*.pcf
+*.ptwx
+*.twr
+*.twx
+*.ut
+*.xpi
+*.xst
+
+# =========================
+# Reports / Logs
+# =========================
+*.log
+*.rpt
+*.mrp
+*.map
+*.summary
+*.usage
+
+# =========================
+# Intermediate Files
+# =========================
+*.cmd_log
+*.stx
+*.unroutes
+*.pad.csv
+*.pad.txt
+*_map.*
+*_par.*
+*_xst.*
+*_ngdbuild.*
+
+# =========================
+# Project / Workspace Junk
+# =========================
+*.ise
+*.xise
+webtalk*
+*_envsettings
+*.bld
+*.iso
+*.cpj
+*.summary
+
+# =========================
+# Simulation / Test Outputs
+# =========================
+FINAL_*
+*.wlf
+*.vcd
+
+# =========================
+# Backup / Temp Files
+# =========================
+*.bak
+*.tmp
+*.swp
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
