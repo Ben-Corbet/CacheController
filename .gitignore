@@ -27,6 +27,15 @@ xlnx_auto_0_xdb/
 *.ut
 *.xpi
 *.xst
+*.drc
+*.lso
+*.prj
+*.syr
+*.xwbt
+*.html
+*.csv
+*.txt
+*.xml
 
 # =========================
 # Reports / Logs
