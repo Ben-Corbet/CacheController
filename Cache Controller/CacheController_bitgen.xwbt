@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=/home/student2/vscraba/758Project1/project1/CacheController.ncd
-OUTFILE=/home/student2/vscraba/758Project1/project1/CacheController.bit
-FAMILY=Spartan3E
-PART=xc3s500e-5fg320
-WORKINGDIR=/home/student2/vscraba/758Project1/project1
-LICENSE=ISE
-USER_INFO=175353682_174116511_210722484_808
